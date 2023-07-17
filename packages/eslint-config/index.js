@@ -75,5 +75,13 @@ module.exports = {
     'react/sort-prop-types': 'error',
     'react/prop-types': 'off',
     'react-hooks/exhaustive-deps': 'error',
+    'jsx-a11y/anchor-is-valid': [
+      'error',
+      {
+        components: ['Link'],
+        specialLink: ['hrefLeft', 'hrefRight'],
+        aspects: ['invalidHref', 'preferButton'],
+      },
+    ],
   },
 }
