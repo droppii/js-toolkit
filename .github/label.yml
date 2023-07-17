@@ -1,0 +1,17 @@
+examples:
+  - example/*
+  - example/**/*
+
+hooks:
+  - packages/hooks/*
+  - packages/hooks/**/*
+
+utils:
+  - packages/utils/*
+  - packages/utils/**/*
+
+eslint:
+  - packages/eslint-config/*
+
+repo:
+  - ./*

@@ -1,0 +1,91 @@
+{
+  "name": "droppii-js-toolkit",
+  "private": true,
+  "scripts": {
+    "dev": "turbo run dev --parallel --no-cache",
+    "test": "turbo run test --parallel",
+    "test:ci": "turbo run test:ci --parallel",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "build": "turbo run build",
+    "prepare": "pnpm run build",
+    "start:app": "pnpm run build && pnpm -C ./example start",
+    "changeset": "changeset",
+    "release": "changeset publish",
+    "version:canary": "changeset version --snapshot canary",
+    "release:canary": "changeset publish --tag canary",
+    "format": "prettier -c --write \"*/**\"",
+    "postinstall": "husky install",
+    "search-meta:gen": "ts-node scripts/get-search-meta.ts",
+    "pkgs": "manypkg run",
+    "check:pkgs": "manypkg check",
+    "fix:pkgs": "manypkg fix"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "**/*.{json,css,scss,md,svg}": [
+      "prettier --write"
+    ],
+    "**/*.{js,jsx,ts,tsx}": [
+      "prettier --write",
+      "eslint --fix"
+    ]
+  },
+  "dependencies": {
+    "@changesets/changelog-github": "^0.4.0",
+    "@changesets/cli": "^2.16.0",
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-conventional": "^13.1.0",
+    "@docusaurus/utils": "2.0.0-beta.5",
+    "@manypkg/cli": "^0.18.0",
+    "@testing-library/react-hooks": "^7.0.1",
+    "@types/jest": "^29.5.0",
+    "@types/react": "^17.0.16",
+    "@types/react-dom": "^17.0.9",
+    "@types/shelljs": "^0.8.9",
+    "@types/uuid": "^8.3.1",
+    "@typescript-eslint/eslint-plugin": "4.x",
+    "@typescript-eslint/parser": "4.29.0",
+    "babel-eslint": "10.x",
+    "eslint": "7.x",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-airbnb-typescript": "12.x",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-config-react": "1.x",
+    "eslint-plugin-import": "2.x",
+    "eslint-plugin-jsx-a11y": "6.x",
+    "eslint-plugin-prettier": "3.x",
+    "eslint-plugin-react": "7.x",
+    "eslint-plugin-react-hooks": "4.x",
+    "eslint-plugin-testing-library": "4.10.1",
+    "graceful-fs": "4.2.8",
+    "husky": "^7.0.1",
+    "lint-staged": "^11.1.2",
+    "markdown-toc": "^1.2.0",
+    "object-assign": "4.1.1",
+    "prettier": "^2.3.2",
+    "scheduler": "0.20.2",
+    "shelljs": "^0.8.4",
+    "swr": "^1.0.0",
+    "toggle-selection": "1.0.6",
+    "ts-node": "^9.1.1",
+    "tsdx": "^0.14.1",
+    "tslib": "2.3.1",
+    "typescript": "^4.3.5",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^12.1.0",
+    "@types/graceful-fs": "4.1.5",
+    "turbo": "1.8.8"
+  },
+  "packageManager": "pnpm@8.2.0",
+  "engines": {
+    "pnpm": ">=8.2.0"
+  }
+}
