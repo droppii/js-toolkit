@@ -11,6 +11,7 @@
     "prepare": "pnpm run build",
     "start:app": "pnpm run build && pnpm -C ./example start",
     "changeset": "changeset",
+    "ci:publish": "pnpm publish -r",
     "release": "changeset publish",
     "version:canary": "changeset version --snapshot canary",
     "release:canary": "changeset publish --tag canary",
