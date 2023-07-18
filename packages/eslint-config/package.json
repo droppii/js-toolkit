@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/droppii/js-toolkit.git",
+    "url": "git+https://github.com/droppii/react-toolkit.git",
     "directory": "packages/eslint-config"
   },
   "license": "MIT",
@@ -47,5 +47,12 @@
     "eslint-plugin-react": "7.x",
     "eslint-plugin-react-hooks": "4.x",
     "eslint-plugin-testing-library": "4.10.1"
+  },
+  "bugs": {
+    "url": "https://github.com/droppii/react-toolkit/issues"
+  },
+  "homepage": "https://github.com/droppii/react-toolkit#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
