@@ -4,5 +4,5 @@
 
 ## Packages
 
-- `@dwarvesf/react-eslint-config` contains an ESLint config with TypeScript and
+- `@droppii/react-eslint-config` contains an ESLint config with TypeScript and
   Prettier support.
