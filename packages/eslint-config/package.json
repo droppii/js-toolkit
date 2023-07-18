@@ -1,7 +1,7 @@
 {
-  "name": "@droppii/eslint-config",
-  "version": "0.1.0",
-  "description": "ESLint configuration for @droppii",
+  "name": "@droppii/react-eslint-config",
+  "version": "0.0.1",
+  "description": "ReactJS ESLint configuration for @droppii",
   "author": "Droppii",
   "main": "index.js",
   "repository": {

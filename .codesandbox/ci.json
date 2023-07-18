@@ -1,4 +1,0 @@
-{
-  "packages": ["packages/hooks", "packages/utils"],
-  "sandboxes": ["new", "vanilla"]
-}

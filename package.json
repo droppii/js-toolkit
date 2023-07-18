@@ -1,5 +1,5 @@
 {
-  "name": "droppii-js-toolkit",
+  "name": "droppii-react-toolkit",
   "private": true,
   "scripts": {
     "dev": "turbo run dev --parallel --no-cache",
