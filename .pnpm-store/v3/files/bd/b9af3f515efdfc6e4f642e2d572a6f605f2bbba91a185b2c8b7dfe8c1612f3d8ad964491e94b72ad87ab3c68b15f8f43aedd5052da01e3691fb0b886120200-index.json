@@ -1,0 +1,42 @@
+{
+  "name": "gray-matter",
+  "version": "2.1.1",
+  "files": {
+    "package.json": {
+      "checkedAt": 1689736487347,
+      "integrity": "sha512-TeTIbnu0ze/W7yRZ3mecKnw6yO+jIfzAN4gVpfoEfDDWulqMm76iKvWrqySDGRYErt07wl1TK4TiSCkkr0O5kA==",
+      "mode": 420,
+      "size": 2718
+    },
+    "README.md": {
+      "checkedAt": 1689736487347,
+      "integrity": "sha512-Op4eF0ygqFQgVFVFZ7eN1agopUSnwMsmRm8VD3qF/xqujXbs4X2cJBa9oPk61v1+XYY/sE58F4VjmHpeDjIRNA==",
+      "mode": 420,
+      "size": 10322
+    },
+    "LICENSE": {
+      "checkedAt": 1689736487359,
+      "integrity": "sha512-tvfTdJiWJDiFPpsR/I9WZSs0oBmhGFXq7UhlakT0rx9viP394eXYZoTSYAH9KLC6LQkxkGWAeqY2WHVWHwxwPQ==",
+      "mode": 420,
+      "size": 1087
+    },
+    "index.js": {
+      "checkedAt": 1689736487359,
+      "integrity": "sha512-HzfrzyC3OfLGXA9Afm0sFXSUqPSaWrL0XR+95KBmrbwmHaLOM1cUJFPJtvq0iJeMVR4Y+Bx7sMZbNWRO35i5CA==",
+      "mode": 420,
+      "size": 4897
+    },
+    "gray-matter.d.ts": {
+      "checkedAt": 1689736487359,
+      "integrity": "sha512-e3XQCkk/qixltuxKegDTLhmiarWvfRrHlbaD6cI5c/o17tdLKRNuxTqHfT83xbIItxJStdyIRnVQN2Fx3XIYFQ==",
+      "mode": 420,
+      "size": 489
+    },
+    "lib/parsers.js": {
+      "checkedAt": 1689736487359,
+      "integrity": "sha512-3j0lGRq7qw4HykTwE+oI8YbwbsBt/xrGhnLI4o4aeQOc3L4N4p1vN1NMDeFR+G4/j6n2wRWTPXLGvpPtZF3QsQ==",
+      "mode": 420,
+      "size": 4527
+    }
+  }
+}

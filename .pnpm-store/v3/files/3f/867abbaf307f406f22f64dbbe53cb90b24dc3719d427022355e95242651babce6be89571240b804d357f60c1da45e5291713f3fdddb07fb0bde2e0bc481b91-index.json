@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-react",
+  "version": "1.1.7",
+  "files": {
+    "package.json": {
+      "checkedAt": 1689736482503,
+      "integrity": "sha512-OmxwS2d1/BUBnHTkEuF4tS11cFfCkHtiAtK/ZWpdNYIjROTklHb05u3efDbecSt66T0yEQgB/e/qz/2aSj3Yuw==",
+      "mode": 420,
+      "size": 643
+    },
+    "README.md": {
+      "checkedAt": 1689736482503,
+      "integrity": "sha512-dze3OE3/3jwCEgxe2Y0LbXsd2DvreDlCBRwUN5MvTn5VZEv79zfO2U9Ur8sdeatd/9N8phIr7fZ/5dFNCg+1HA==",
+      "mode": 420,
+      "size": 2045
+    },
+    "LICENSE": {
+      "checkedAt": 1689736482503,
+      "integrity": "sha512-DrnynnHkL2TUbxyw5JTnLKYl/IBpCRJSsuW16ei7ROM7WxlGDhPHE5+vA8Pi/b5mjZAFuLOoDxU17w8yXVQIDA==",
+      "mode": 420,
+      "size": 1083
+    },
+    "index.js": {
+      "checkedAt": 1689736482503,
+      "integrity": "sha512-h4I5fyyTemZxXjGV0YWZTM48iD6Buu2NPMHHJ4ZLF9FgaLmYpS4CJm6EYBhBrFx+Pggcx14+LhlYK58/gbQ2jA==",
+      "mode": 420,
+      "size": 8229
+    }
+  }
+}

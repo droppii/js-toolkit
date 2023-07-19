@@ -1,0 +1,60 @@
+{
+  "name": "babel-plugin-polyfill-corejs2",
+  "version": "0.4.4",
+  "files": {
+    "LICENSE": {
+      "checkedAt": 1689736485712,
+      "integrity": "sha512-sZjzC2URUACwTnnP7wSNUMfEJoDe4lTVb4yB2clKYX5MblAYxPfzfU4jS0UqV8odXJWvwlLIY/NPTfLg9AQNpA==",
+      "mode": 420,
+      "size": 1103
+    },
+    "README.md": {
+      "checkedAt": 1689736485712,
+      "integrity": "sha512-N+koOrLCTaa2qXkfrhzFadiMFA0XRSILcR58A64li04wwx/ZRra2Y5y0tul27RsQSWRLvmqJOznOisJNx1ID8Q==",
+      "mode": 420,
+      "size": 479
+    },
+    "esm/index.mjs": {
+      "checkedAt": 1689736485730,
+      "integrity": "sha512-U769hrBFUCQtJGMSAv4ryW8IigaIS9wXL/YNmwhZ6mgWtfaYI9I13tja7wVyfG2cLxjtHpHlvBtLNs1WpqsN2g==",
+      "mode": 420,
+      "size": 17968
+    },
+    "esm/index.mjs.map": {
+      "checkedAt": 1689736485743,
+      "integrity": "sha512-2xo61ahxozpOyVjxXHsgZ3Dkyiz9JNmltst6LKM/Iz4uxbn65zeDjPNO3GmTomLTWXJBy3oyc5bpYMH2n79tTw==",
+      "mode": 420,
+      "size": 40045
+    },
+    "lib/add-platform-specific-polyfills.js": {
+      "checkedAt": 1689736485743,
+      "integrity": "sha512-1jgvdkIJ7gw7WY+y5/p9d3oMP616l3bwNT0OeCdjQAZi6KmVdInFxOJlYnzrDw3X02tkevmEeFLgX0Jmz2U0GQ==",
+      "mode": 420,
+      "size": 934
+    },
+    "lib/built-in-definitions.js": {
+      "checkedAt": 1689736485753,
+      "integrity": "sha512-GYGu7eZDtP/WZqoKXsJvxljioVnoLaXLGiN8ooAKyE3q1ah5BsOAgZdLjiGhbVgd7FIQ8SS66f1w2aA1iVhVZQ==",
+      "mode": 420,
+      "size": 11960
+    },
+    "lib/helpers.js": {
+      "checkedAt": 1689736485753,
+      "integrity": "sha512-/2V0OzySEobd9bHnYBh1PFm4qlpZo/GrmKjeFeVGr718188UjwvZB/lGSq49KciMi3HrTI6KGoca9a/xffU9YA==",
+      "mode": 420,
+      "size": 1610
+    },
+    "lib/index.js": {
+      "checkedAt": 1689736485756,
+      "integrity": "sha512-vgZrD9n9eTn+9B5MXCVVYgQN9R2JXAvsoQUA6hNpRJg0nzuq5KAjx64kIE+25VDFqbWA5HjqGBiaYi08UBRdRw==",
+      "mode": 420,
+      "size": 6276
+    },
+    "package.json": {
+      "checkedAt": 1689736485756,
+      "integrity": "sha512-97QQm5RoVwbC0YedSb1Z+2gUuUS5tCapj53UwQXyMnQfqmsMXBl8+z9z1r8/KLwW40wPR0ZI5Z9s9EjQ0czxcQ==",
+      "mode": 420,
+      "size": 1119
+    }
+  }
+}
