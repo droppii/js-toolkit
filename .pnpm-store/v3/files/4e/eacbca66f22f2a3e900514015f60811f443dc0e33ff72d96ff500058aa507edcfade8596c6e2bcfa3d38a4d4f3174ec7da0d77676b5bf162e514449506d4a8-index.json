@@ -1,0 +1,30 @@
+{
+  "name": "markdown-link",
+  "version": "0.1.1",
+  "files": {
+    "LICENSE": {
+      "checkedAt": 1689736486690,
+      "integrity": "sha512-Pzk/oiavUErNJ+2Q1b5g1EPArVYQxVzQx4/walYwLVN7/eHoQhq7gKsPEb/xzHqN2Va5TjDYJGMyt4274Wkr6g==",
+      "mode": 420,
+      "size": 1083
+    },
+    "package.json": {
+      "checkedAt": 1689736487591,
+      "integrity": "sha512-m8QwHG/aqWsXaCvZJUh/e66iGsOoVB+bgxMdd+9fnaxPvlYJvlpcbodLB644WV9x7Xy8/cLxt33xUM5Z3py5Aw==",
+      "mode": 420,
+      "size": 830
+    },
+    "README.md": {
+      "checkedAt": 1689736487591,
+      "integrity": "sha512-v1Y4jjWBlchRH0w9pFSEb4aYI7SBH77DZniuU+MU1+uxyZ438U8/rI3VCV98hXOekKZpOL7ap64QbMlxkHuPTg==",
+      "mode": 420,
+      "size": 1802
+    },
+    "index.js": {
+      "checkedAt": 1689736487591,
+      "integrity": "sha512-jXuYpE1nshBdjvQr7JZIkSeBW/mS12bnCGaV1KlZhT/kE8yG/iiXNd6v/RqVUtBZlHdOTLtI9Txt7bV1MJJW+A==",
+      "mode": 420,
+      "size": 759
+    }
+  }
+}

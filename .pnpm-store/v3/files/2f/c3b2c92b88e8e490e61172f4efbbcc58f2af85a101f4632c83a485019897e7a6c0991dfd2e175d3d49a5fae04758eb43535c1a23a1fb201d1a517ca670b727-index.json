@@ -1,0 +1,42 @@
+{
+  "name": "babel-plugin-polyfill-regenerator",
+  "version": "0.5.1",
+  "files": {
+    "LICENSE": {
+      "checkedAt": 1689736485712,
+      "integrity": "sha512-sZjzC2URUACwTnnP7wSNUMfEJoDe4lTVb4yB2clKYX5MblAYxPfzfU4jS0UqV8odXJWvwlLIY/NPTfLg9AQNpA==",
+      "mode": 420,
+      "size": 1103
+    },
+    "README.md": {
+      "checkedAt": 1689736485749,
+      "integrity": "sha512-5YXMcJyIoXcGILR05TYMOG0UBaZhoEdpJR9AIxa839khM7jscExw2oswJqf+KJkFFhMTHmF60jW9mT3ATO9z0g==",
+      "mode": 420,
+      "size": 507
+    },
+    "esm/index.mjs": {
+      "checkedAt": 1689736485749,
+      "integrity": "sha512-9ucgnrgETgU1XxO9zgY4ihc6SP3iZbMQOrvpMBkxAVthhro1QWiduj81Thpdt/sLyPe6CTuXbLy3LSEcJxWMvQ==",
+      "mode": 420,
+      "size": 1568
+    },
+    "esm/index.mjs.map": {
+      "checkedAt": 1689736485749,
+      "integrity": "sha512-Hzh83jms1814Mv0iO3QlvTrrDxsjHXB+bOGkVHUPpBtC51yr6vyRjimx/GzYjbzsWM/K9In14w4pEDtTsfyPTQ==",
+      "mode": 420,
+      "size": 3496
+    },
+    "lib/index.js": {
+      "checkedAt": 1689736485749,
+      "integrity": "sha512-BRRWd7S43S9zN6aTGuvSNsXGOkLOY1OYcxhAvZPizZKkZVc4imt/3MstaIKQ20doz+i92wN8mvptXsBtq63kCA==",
+      "mode": 420,
+      "size": 1773
+    },
+    "package.json": {
+      "checkedAt": 1689736485749,
+      "integrity": "sha512-ZStRVVR2QGbBJEe4GwzcEou6NZCNluWdgV6o03mJsE4AU6ncO8H+/Hunin4iZKuvtvHBExG34gPTnlxo9j/Y+g==",
+      "mode": 420,
+      "size": 993
+    }
+  }
+}

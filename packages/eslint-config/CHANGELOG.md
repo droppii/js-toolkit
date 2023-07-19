@@ -1,5 +1,16 @@
 # @droppii/eslint-config
 
+## 0.1.2
+
+### Patch Changes
+
+- [#8](https://github.com/droppii/react-toolkit/pull/8)
+  [`2071a3d9`](https://github.com/droppii/react-toolkit/commit/2071a3d9580d98ea65212806a05088879e116550)
+  Thanks [@zlatanpham](https://github.com/zlatanpham)! - Bump version
+
+- [`36de4b17`](https://github.com/droppii/react-toolkit/commit/36de4b173625136b9167d49ea91e877c26e83774)
+  Thanks [@zlatanpham](https://github.com/zlatanpham)! - Trigger bump version
+
 ## 0.1.1
 
 ### Patch Changes

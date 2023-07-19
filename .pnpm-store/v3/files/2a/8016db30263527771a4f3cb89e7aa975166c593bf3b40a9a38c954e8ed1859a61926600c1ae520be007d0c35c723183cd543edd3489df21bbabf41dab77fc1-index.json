@@ -1,0 +1,36 @@
+{
+  "name": "jest-message-util",
+  "version": "29.6.1",
+  "files": {
+    "LICENSE": {
+      "checkedAt": 1689736486980,
+      "integrity": "sha512-O4KI5drJltpEvYGw6x2WkFxLkK2RVPPSnQc8lokLdc0oH6A68Ld/Mx2+wjnTQTY7X5syi6/qDUuNCj6QDRUPgA==",
+      "mode": 420,
+      "size": 1088
+    },
+    "build/types.js": {
+      "checkedAt": 1689736486992,
+      "integrity": "sha512-RjmKd+gdxk74cSrFI6XTKRMR+K2iczjXt36nPHSC6q35N6MIN7KBJrLm862Tz0JrTROy12qBOvDK1o37Kr0mvA==",
+      "mode": 420,
+      "size": 14
+    },
+    "build/index.js": {
+      "checkedAt": 1689736487065,
+      "integrity": "sha512-dHQP5LLOX4jQSTp/LreikJcRVqHeXr+H77eDtxpD9WhPZd8/uInUyX6UMBPQFYqjf6b1vJHGIdOz35KrX7yrEw==",
+      "mode": 420,
+      "size": 16726
+    },
+    "package.json": {
+      "checkedAt": 1689736487065,
+      "integrity": "sha512-CimxRSTpATbuW1LUiJpCspT8OV959+IQ3VSq1D2LPFk7HggBX0VwBKn3O0cMiIWPwMwzf9tCGLLA05eZR9keUQ==",
+      "mode": 420,
+      "size": 1056
+    },
+    "build/index.d.ts": {
+      "checkedAt": 1689736487065,
+      "integrity": "sha512-3yPjeQN3p/n9hz6/XAr8bD9RlSxuEzhG0P49nol2VEo/AWdpmNVXMPNju8FMfQg6KVKY777LQG/REciMK9YfrA==",
+      "mode": 420,
+      "size": 1691
+    }
+  }
+}
