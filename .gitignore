@@ -1,15 +1,41 @@
+# Logs
+logs
 *.log
-.DS_Store
-node_modules
+npm-debug.log*
+
+# Dependency directory
+**/node_modules/**
+_node_modules
+.pnp.cjs
+
 dist
 
-node_modules
-package-lock.json
-yarn.lock
-!/yarn.lock
+# Visual Studio Code configs
+.vscode/
 
-.yalc
-yalc.lock
+# JetBrains IDEs
+.idea/
 
 .next
 out
+
+# pnpm uses npm for publishing a new version with
+# dependencies bundled but the npm lockfile is not needed
+# because pnpm use pnpm for installation
+package-lock.json
+
+__package_previews__
+.store
+
+privatePackages/store
+
+## Verdaccio storage
+storage
+
+yarn.lock
+
+RELEASE.md
+
+.jest-cache
+.verdaccio-cache
+.turbo
