@@ -1,5 +1,14 @@
 # @droppii/eslint-config
 
+## 0.2.0
+
+### Minor Changes
+
+- [#12](https://github.com/droppii/react-toolkit/pull/12)
+  [`47c0f70d`](https://github.com/droppii/react-toolkit/commit/47c0f70d70929adb06a74cb7f8314bd3ca13a4c4)
+  Thanks [@zlatanpham](https://github.com/zlatanpham)! - Add jsx-sort-props and
+  typescript/padding-line-between-statements rules
+
 ## 0.1.3
 
 ### Patch Changes
