@@ -49,7 +49,7 @@ module.exports = {
     'no-continue': 'off',
     'prefer-destructuring': ['warn', { object: true, array: false }],
     'operator-assignment': 'off',
-    'no-plusplus': 'off',
+    'no-plusplus': 'error',
     'spaced-comment': 'off',
     'import/prefer-default-export': 'off',
     'arrow-body-style': 'off',

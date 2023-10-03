@@ -7,6 +7,7 @@
     "typeRoots": ["./node_modules/@types", "./types"],
     "paths": {
       "@droppii/eslint-config": ["packages/eslint-config"],
+      "@droppii/react-hooks": ["packages/hooks/src"],
       "$test/*": ["test/*"]
     }
   },

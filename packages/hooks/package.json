@@ -1,0 +1,39 @@
+{
+  "name": "@droppii/react-hooks",
+  "version": "0.0.1",
+  "description": "Official React hooks for @droppii",
+  "author": "@droppii",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/droppii/react-toolkit.git",
+    "directory": "packages/hooks"
+  },
+  "scripts": {
+    "dev": "tsdx watch --tsconfig tsconfig.build.json --verbose --noClean",
+    "build": "tsdx build --tsconfig tsconfig.build.json",
+    "test": "tsdx test",
+    "test:ci": "tsdx test --ci --coverage --passWithNoTests",
+    "lint": "tsdx lint"
+  },
+  "main": "dist/index.js",
+  "module": "dist/react.esm.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "README.md",
+    "dist"
+  ],
+  "peerDependencies": {
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
